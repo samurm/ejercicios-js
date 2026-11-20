@@ -1,0 +1,7 @@
+ {
+    "workbench.editorAssociations": {
+        "*.md": "default",
+        "*.copilotmd": "vscode.markdown.preview.editor"
+    },
+    "chat.disableAIFeatures": true
+}
