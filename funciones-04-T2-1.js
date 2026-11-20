@@ -1,5 +1,5 @@
 function getFullName(name, lastName) {
-    return ${name} ${lastName}
+    return `${name} ${lastName}`
 }
 
 function greet(name, language) {
